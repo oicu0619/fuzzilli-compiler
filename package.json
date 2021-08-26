@@ -1,0 +1,19 @@
+{
+  "name": "prototest",
+  "version": "1.0.0",
+  "dependencies": {
+    "acorn": "^8.4.1",
+    "google-protobuf": "latest"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "extends": "google",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
